@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6289523573658'] 
+global.owner = ['62895342755780'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = ' Danz bot '
-global.numberowner = '6289523573658'
+global.nameowner = ' Ryu bot '
+global.numberowner = '62895342755780'
 global.instagram = 'https://instagram.com/helga_store20'
 global.github = 'https://github.com/Hyzerr'
-global.dana = '089523573658'
-global.pulsa = '089523573658'
-global.gopay = '089523573658'
+global.dana = '0895342755780'
+global.pulsa = '0895342755780'
+global.gopay = '0895342755780'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Danzbot-Md'
+global.namebot = 'Ryubot-Md'
 global.gc = 'https://chat.whatsapp.com/BxrDMvfLeKTHtvAWKHWZbZ'
 global.web = 'https://www.helgastoree.xyz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -25,8 +25,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Danz Md'
 global.watermark = wm
-global.wm2 = '                     「 Danz Md あ⁩ 」'
-global.wm3 = '⫹⫺ Danz md'
+global.wm2 = '                     「 Ryu Md あ⁩ 」'
+global.wm3 = '⫹⫺ Ryu md'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '2022'
-global.author = '© DanzMd'
+global.packname = '089523573658'
+global.author = '© RyuMd'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
