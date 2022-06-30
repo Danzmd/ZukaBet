@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['62895342755780 089523573658'] 
+global.owner = ['62895342755780'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = ' Ryu bot '
-global.numberowner = '62895342755780'
+global.numberowner = '62895342755780,089523573658'
 global.instagram = 'https://instagram.com/helga_store20'
 global.github = 'https://github.com/Hyzerr'
 global.dana = '0895342755780'
