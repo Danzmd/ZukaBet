@@ -17,7 +17,7 @@ https://youtu.be/AXPzjQ5jxx8
 _*Jangan Lupa Di Subscribe*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
-handler.help = ['sc', 'sourcecode']
+handler.help = ['', 'sourcecode']
 handler.tags = ['info']
 handler.command = /^(sc|sourcecode)$/i
 
