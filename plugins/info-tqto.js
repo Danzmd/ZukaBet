@@ -6,7 +6,7 @@
 
 let handler = async (m, { conn }) => {
 bear = "Source Code"
-let esce = '_'
+let esce = 'ALLAH SWT & ORTU'
 conn.sendButtonImg(m.chat, fla + 'Thanks To', esce, wm2, 'Menu', '.menu', m) 
 }
 handler.help = ['tqto', 'team']
