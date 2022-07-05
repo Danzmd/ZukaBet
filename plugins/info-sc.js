@@ -16,7 +16,7 @@ Nih Link Sc Nya Dibawah :
 Pm ownernya kak kalo mau scnya
 
 _*DANZBOT*_`
-conn.sendBut(m.chat, esce, wm3, 'OWNER', 'OWNER', m) 
+conn.sendBut(m.chat, esce, wm3, 'Owner', 'owner', m) 
 }
 handler.help = ['sc', 'sourcecode']
 handler.tags = ['owner']
