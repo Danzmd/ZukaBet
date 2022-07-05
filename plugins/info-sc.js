@@ -9,16 +9,17 @@
 let handler = async (m, { conn }) => {
 let ye = `@${m.sender.split`@`[0]}`
 let esce = `
-Hai ${ye} Lagi Nyari Sc Ya? 
+Hai ${ye} Lagi Nyari Sc Ya Kak? 
 
 Nih Link Sc Nya Dibawah :
-Mau beli scnya ketik .owner
 
-_*Jangan Lupa Di Subscribe*_`
+Pm ownernya kak kalo mau scnya
+
+_*DANZBOT*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
-handler.help = ['', 'sourcecode']
-handler.tags = ['info']
+handler.help = ['sc', 'sourcecode']
+handler.tags = ['owner']
 handler.command = /^(sc|sourcecode)$/i
 
 module.exports = handler
